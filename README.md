@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there, I'm LyoeX <img height="30" src="./assets/boyfun.gif">
 
-<!--
-**LyoeX/LyoeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/hungry-hello.gif" align="right" width="250" alt="MafuMafu" />
+  
+### 📙 About Me:
 
-Here are some ideas to get you started:
+- I'm Freelance Developer
+- I study Computer Science at high school
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+![VSCode](https://shields.io/badge/Editor-VSCode-blue?style=plastic&logo=visual-studio-code)
+![Windows](https://img.shields.io/badge/OS-Windows-blue?style=plastic&logo=Windows)
+
+___
+
+<br>
+
+### 🛠 Languages And Tools:
+
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" width="50">
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="40" width="50">
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="40" width="50">
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" width="50">
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40" width="50">
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" width="50">
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" width="50">
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="40" width="50">
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="40" width="50">
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="40" width="50">
