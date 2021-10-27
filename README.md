@@ -1,6 +1,6 @@
 # Hi there, I'm LyoeX <img height="30" src="./assets/boyfun.gif">
 
-<img src="./assets/hungry-hello.gif" align="right" width="270" alt="MafuMafu" />
+<img src="./assets/hungry-hello.gif" align="right" width="40%" alt="MafuMafu" />
   
 ### 📙 About Me:
 
