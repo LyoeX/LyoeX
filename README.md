@@ -16,7 +16,7 @@ ___
 
 ### 🛠 Languages And Tools:
 
-<img align="left" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" width="50">
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="40" width="50">
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="40" width="50">
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="40" width="50">
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" width="50">
@@ -25,4 +25,4 @@ ___
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" width="50">
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="40" width="50">
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="40" width="50">
-<img align="left" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="40" width="50">
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" width="50">
