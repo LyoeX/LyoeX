@@ -14,8 +14,6 @@
 
 ___
 
-<br>
-
 ### 🛠 Languages And Tools:
 
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" width="50">
