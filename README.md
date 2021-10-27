@@ -24,5 +24,5 @@ ___
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" width="50">
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" width="50">
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="40" width="50">
-<img align="left" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="40" width="50">
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="40" width="50">
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="40" width="50">
