@@ -5,7 +5,7 @@
 ### 📙 About Me:
 
 - I'm Freelance Developer
-- I study Computer Science at high school
+- I study Computer Science at university
 
 <br>
 
